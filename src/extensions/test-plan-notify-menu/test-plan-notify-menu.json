@@ -13,7 +13,7 @@
                     "light": "static/message.png",
                     "dark": "static/message.png"
                 },
-                "registeredObjectId": "test-case-assignee-notifier"
+                "registeredObjectId": "notify-next-test-case-assignee"
             }
         }
     ],

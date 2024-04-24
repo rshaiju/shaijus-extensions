@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "clean": "rimraf ./dist",
-    "compile": "npm run clean && webpack --mode production",
+    "compile": "npm run clean && webpack --mode development",
     "compile:dev": "npm run clean && webpack --mode development",
     "build": "npm run compile",
     "build:dev": "npm run compile:dev && npm run postbuild",
