@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "shaijus-poc-extensions",
     "publisher": "shaijus",
-    "version": "1.0.15",
+    "version": "1.0.26",
     "name": "Shaijus POC Extensions",
     "description": "Azure DevOps POC extensions",
     "categories": [
